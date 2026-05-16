@@ -6,7 +6,7 @@ Full Stack Developer — MERN & Laravel
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://zaid2904.github.io/Portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/zaid2904)
-[![Profile Views](https://komarev.com/ghpvc/?username=zaid2904&label=Views&color=000000&style=flat-square)](https://github.com/zaid2904)
+[![Profile Views](https://komarev.com/ghpvc/?username=zaid2904&label=Visitors&color=0f0f0f&style=plastic)](https://github.com/zaid2904)
 
 </div>
 
