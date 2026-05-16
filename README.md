@@ -44,20 +44,6 @@ MongoDB    MySQL
 Git    REST APIs    Postman    VS Code
 ```
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=zaid2904&show_icons=true&theme=dark&hide_border=true&bg_color=0f0f0f&title_color=ffffff&text_color=aaaaaa&icon_color=4f8ef7" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaid2904&layout=compact&theme=dark&hide_border=true&bg_color=0f0f0f&title_color=ffffff&text_color=aaaaaa" />
-
-</div>
-
----
-
 ## Currently
 
 - Building and shipping projects across the MERN stack and Laravel
