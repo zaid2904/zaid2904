@@ -32,11 +32,7 @@ Tools    : Git, Postman, VS Code
 ## Currently
 
 - Building MERN & Laravel projects
-- Learning backend architecture & system design
+- Learning backend(JAVA Spring Boot) architecture & system design
 - Exploring API optimization and authentication flows
 
 ---
-
-<div align="center">
-Built with simplicity.
-</div>
