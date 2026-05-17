@@ -2,7 +2,7 @@
 
 # Zaid Siddiqui
 
-Full Stack Developer — MERN & Laravel
+MERN Stack Developer 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://zaid2904.github.io/Portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/zaid2904)
